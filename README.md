@@ -1,4 +1,4 @@
 # Introduction 
-Code and results for the paper *The performance of LLM in expressing basic human needs and values: can they be applied in marketing research?* (draft title 😊)
+Code and results for the paper *Beyond Words: How LLMs Mirror Human Needs and Values*
 
-To be sent to Information Processing & Management
+To be sent to Big Data & Society
