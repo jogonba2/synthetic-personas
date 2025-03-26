@@ -1,4 +1,4 @@
 # Introduction 
-Code and results for the paper *Beyond Words: How LLMs Mirror Human Needs and Values*
+Code and results for the paper *Beyond Words: How LLMs Mirror Human Needs and Values Generating Synthetic Data*
 
-To be sent to Big Data & Society
+Sent to Big Data & Society
